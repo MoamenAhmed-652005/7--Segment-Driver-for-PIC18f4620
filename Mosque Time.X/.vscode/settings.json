@@ -1,0 +1,13 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}\\_build\\Embeded_Project\\default"
+    ],
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v3.00\\bin\\xc8-clangd.exe",
+    "files.associations": {
+        "application.h": "c",
+        "button.h": "c",
+        "gpio.h": "c",
+        "mcal_std_types.h": "c"
+    },
+    "C_Cpp.intelliSenseEngine": "disabled"
+}
